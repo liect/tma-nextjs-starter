@@ -1,7 +1,7 @@
 
 # Telegram Mini Apps Template
 
-Welcome to the Telegram Mini Apps Template repository! This project serves as a comprehensive template for creating Telegram applications using the latest technologies and frameworks. The template includes integration with TonConnect UI and TMA (Telegram Mini Apps), all built on the Next.js framework.
+![tma-nextjs-starter](https://socialify.git.ci/liect/tma-nextjs-starter/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Auto)
 
 ## Features
 
