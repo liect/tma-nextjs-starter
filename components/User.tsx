@@ -1,12 +1,12 @@
 "use client";
-import { User, useInitData } from "@tma.js/sdk-react";
+import { useLaunchParams } from "@telegram-apps/sdk-react";
 const UserInfo = () => {
-  const initData = useInitData(true);
+  const launchParams = useLaunchParams();
   return (
     <div>
       <div>
         <span>username:</span>
-        <span>{initData?.user?.username}</span>
+        <span>{launchParams?.initData?.user?.username}</span>
       </div>
     </div>
   );
